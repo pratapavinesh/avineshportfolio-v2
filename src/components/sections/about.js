@@ -141,7 +141,7 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.arista.com/en/">an Networking Company</a>. My
+              <a href="https://www.arista.com/en/">an Software Company</a>. My
               main focus these days is learning and exploring Systems Design, Problem Solving and cloud based technologies like AWS.
             </p>
 
