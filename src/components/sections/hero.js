@@ -61,15 +61,15 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Avinesh Singh.</h2>;
-  const three = <h3 className="big-heading">I am Problem Solver and build things for the web.</h3>;
+  const three = <h3 className="big-heading">I am Problem Solver, curious, tinkerer, and explorer.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building and Designing large scale Systems.
+        I’m a software engineer specializing in building and Designing large scale Systems and Complex Algorithms.
         Currently, I’m focused on building and optimising backend Systems,
         at{' '}
-        <a href="https://www.arista.com/en/" target="_blank" rel="noreferrer">
-          Arista Networks
+        <a href="https://www.amazon.com" target="_blank" rel="noreferrer">
+          Amazon
         </a>
         .
       </p>
