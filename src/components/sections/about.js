@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C/C++', 'Python', 'Gerrit with Git Band', 'Linux Server', 'Javascript', 'Go'];
+  const skills = ['C/C++', 'Java', 'Python', 'SQL', 'Git', 'Github', 'Javascript'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -134,14 +134,16 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
-              Hello! My name is Avinesh and I am a creative problem solver and software engineer who thrives on innovation. I love learning, collaborating, and taking on challenges.
-              In my free time, I indulge in chess and competitive programming. I am driven, creative, and passionate about making a positive impact through technology.
+            <p> Hey, I am Avinesh
+                curious, tinkerer, and explorer
+                I am a software engineer and passionate about Databases, System Architecture, and Advanced Algorithms. I am also the creator and maintainer of BrainAlgo.
+
+                In 2022 I was part of TEXMiN, In 2023, I have Done Internship at Arista and in 2024 become Full Time Software Engineer.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.arista.com/en/">an Software Company</a>. My
+              <a href="https://www.amazon.com/">an Software Company</a>. My
               main focus these days is learning and exploring Systems Design, Problem Solving and cloud based technologies like AWS.
             </p>
 
