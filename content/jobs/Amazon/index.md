@@ -3,7 +3,7 @@ date: '2024-05-12'
 title: 'Software Development Engineer'
 company: 'Amazon'
 location: 'Banglore'
-range: 'May - Today'
+range: 'May 2025 - Today'
 url: 'https://www.amazon.in/'
 ---
 
